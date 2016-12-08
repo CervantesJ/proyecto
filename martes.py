@@ -13,3 +13,8 @@ class Sonido():
         pass
     def fourier(self):
         pass
+class Git():
+    def push(self):
+        pass
+    def add(self):
+        pass
